@@ -3,7 +3,7 @@
 
 #define size 3;
 
-    int arr[];
+    int arr[];//declare an array
     unsigned int front = 0;
     int rear = -1;
 
