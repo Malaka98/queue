@@ -3,7 +3,7 @@
 
 #define size 3;
 
-    int arr[];
+    int arr[];//declare an array
     unsigned int front = 0;
     int rear = -1;
 
@@ -117,7 +117,7 @@ void peek(void) {
 
     if(rear==-1) {
 
-        printf("Queue is empt");
+        printf("Queue is empty");
 
     } else {
 
