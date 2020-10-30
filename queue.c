@@ -117,7 +117,7 @@ void peek(void) {
 
     if(rear==-1) {
 
-        printf("Queue is empt");
+        printf("Queue is empty");
 
     } else {
 
